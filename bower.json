@@ -11,6 +11,9 @@
     "globals",
     "node"
   ],
+  "main": [
+    "dist/framebus.js"
+  ],
   "keywords": [
     "postMessage",
     "payments",
